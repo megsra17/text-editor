@@ -33,7 +33,7 @@ THEN I should have proper build scripts for a webpack application
 HTML WebPack JavaScript
 
 ## Screenshot
-![This is an image of my project](https://github.com/megsra17/Weather-Dashboard/blob/main/asset/Screen%20Shot%202022-10-07%20at%202.13.06%20PM.png)
+![This is an image of my project](https://github.com/megsra17/text-editor/blob/main/Screenshot%202023-01-23%20at%2010.22.21%20PM.png)
 
 ## Url Link
 [Text Editor](https://text-editor-again.herokuapp.com/)
